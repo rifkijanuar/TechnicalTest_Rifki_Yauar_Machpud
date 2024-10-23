@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\services\\userorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\services\\userorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\controllers\\userordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\controllers\\userordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\controllers\\adminoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\controllers\\adminoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\views\\adminoperations\\allordersusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\views\\adminoperations\\allordersusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\views\\adminoperations\\dashboarduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\views\\adminoperations\\dashboarduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|c:\\rifki\\testkerja\\rifkitesttechnicalskill\\program\\rifkitesttechnicalskill\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED4F2A1-1787-4DCF-ABA5-5DC78EA368BE}|RifkiTestTechnicalSkill\\RifkiTestTechnicalSkill.csproj|solutionrelative:rifkitesttechnicalskill\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwFMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T12:35:47.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T04:56:11.541Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T05:58:28.968Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminOperationsController.cs",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Controllers\\AdminOperationsController.cs",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Controllers\\AdminOperationsController.cs",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Controllers\\AdminOperationsController.cs",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Controllers\\AdminOperationsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:06:30.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T06:26:32.099Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardUser.cshtml",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\AdminOperations\\DashboardUser.cshtml",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Views\\AdminOperations\\DashboardUser.cshtml",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\AdminOperations\\DashboardUser.cshtml",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Views\\AdminOperations\\DashboardUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T06:26:57.833Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllOrdersUsers.cshtml",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\AdminOperations\\AllOrdersUsers.cshtml",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Views\\AdminOperations\\AllOrdersUsers.cshtml",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Views\\AdminOperations\\AllOrdersUsers.cshtml",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Views\\AdminOperations\\AllOrdersUsers.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T06:34:59.965Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserOrderService.cs",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Services\\UserOrderService.cs",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Services\\UserOrderService.cs",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Services\\UserOrderService.cs",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Services\\UserOrderService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwEIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:00:56.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserOrderController.cs",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Controllers\\UserOrderController.cs",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Controllers\\UserOrderController.cs",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Controllers\\UserOrderController.cs",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Controllers\\UserOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:59:26.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Program.cs",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Program.cs",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Program.cs",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:21:58.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Services\\CartService.cs",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Services\\CartService.cs",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Services\\CartService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwEMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:08:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "RifkiTestTechnicalSkill\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\RIFKI\\TestKerja\\RifkiTestTechnicalSkill\\Program\\RifkiTestTechnicalSkill\\Controllers\\CartController.cs",
+              "RelativeToolTip": "RifkiTestTechnicalSkill\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:01:31.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

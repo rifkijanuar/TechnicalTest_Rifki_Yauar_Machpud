@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RifkiTestTechnicalSkill.props" />
+</Project>

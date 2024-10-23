@@ -1,0 +1,90 @@
+body[b-cplgmep583] {
+    padding: 0;
+    margin: 0;
+}
+
+*[b-cplgmep583] {
+    scrollbar-width: thin;
+    scrollbar-color: #486888 #f1f1f1;
+}
+
+    *[b-cplgmep583]::-webkit-scrollbar {
+        width: 12px; /* Width of the scrollbar */
+    }
+
+    *[b-cplgmep583]::-webkit-scrollbar-track {
+        background: #f1f1f1; /* Color of the track */
+    }
+
+    *[b-cplgmep583]::-webkit-scrollbar-thumb {
+        background: #486888; /* Color of the thumb */
+        border-radius: 20px; /* Rounded corners of the thumb */
+    }
+
+        *[b-cplgmep583]::-webkit-scrollbar-thumb:hover {
+            background: #486888; /* Color of the thumb on hover */
+        }
+
+.main-contaier[b-cplgmep583] {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidenav[b-cplgmep583] {
+    height: 100%;
+    width: 250px;
+    background-color: #2c3e50;
+    padding-top: 15px;
+}
+
+.navigation-link[b-cplgmep583] {
+    text-decoration: none;
+    font-size: 17px;
+    color: #ffffff;
+    display: block;
+}
+
+.sidenav a:hover[b-cplgmep583] {
+    background-color: #476584;
+    color: #ffffff !important;
+}
+
+.sidenav a[b-cplgmep583] {
+    padding: 10px 15px;
+}
+
+.right-panel[b-cplgmep583] {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.nav-bar[b-cplgmep583] {
+    background-color: #486888;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-actions[b-cplgmep583] {
+    display: flex;
+    gap: 5px;
+}
+
+    .nav-actions button[b-cplgmep583] {
+        border: none;
+        background: none;
+    }
+
+        .nav-actions a:hover[b-cplgmep583],
+        .nav-actions button:hover[b-cplgmep583] {
+            color: rgb(241, 241, 241);
+        }
+
+.content[b-cplgmep583] {
+    padding: 20px;
+}

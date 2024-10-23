@@ -1,0 +1,232 @@
+/* _content/RifkiTestTechnicalSkill/Views/Shared/_AdminLayout.cshtml.rz.scp.css */
+body[b-3lmcz631lc] {
+    padding: 0;
+    margin: 0;
+}
+
+*[b-3lmcz631lc] {
+    scrollbar-width: thin;
+    scrollbar-color: #486888 #f1f1f1;
+}
+
+    *[b-3lmcz631lc]::-webkit-scrollbar {
+        width: 12px; /* Width of the scrollbar */
+    }
+
+    *[b-3lmcz631lc]::-webkit-scrollbar-track {
+        background: #f1f1f1; /* Color of the track */
+    }
+
+    *[b-3lmcz631lc]::-webkit-scrollbar-thumb {
+        background: #486888; /* Color of the thumb */
+        border-radius: 20px; /* Rounded corners of the thumb */
+    }
+
+        *[b-3lmcz631lc]::-webkit-scrollbar-thumb:hover {
+            background: #486888; /* Color of the thumb on hover */
+        }
+
+.main-contaier[b-3lmcz631lc] {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidenav[b-3lmcz631lc] {
+    height: 100%;
+    width: 250px;
+    background-color: #2c3e50;
+    padding-top: 15px;
+}
+
+.navigation-link[b-3lmcz631lc] {
+    text-decoration: none;
+    font-size: 17px;
+    color: #ffffff;
+    display: block;
+}
+
+.sidenav a:hover[b-3lmcz631lc] {
+    background-color: #476584;
+    color: #ffffff !important;
+}
+
+.sidenav a[b-3lmcz631lc] {
+    padding: 10px 15px;
+}
+
+.right-panel[b-3lmcz631lc] {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.nav-bar[b-3lmcz631lc] {
+    background-color: #486888;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-actions[b-3lmcz631lc] {
+    display: flex;
+    gap: 5px;
+}
+
+    .nav-actions button[b-3lmcz631lc] {
+        border: none;
+        background: none;
+    }
+
+        .nav-actions a:hover[b-3lmcz631lc],
+        .nav-actions button:hover[b-3lmcz631lc] {
+            color: rgb(241, 241, 241);
+        }
+
+.content[b-3lmcz631lc] {
+    padding: 20px;
+}
+/* _content/RifkiTestTechnicalSkill/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-j2x1ckw9ya] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-j2x1ckw9ya] {
+    color: #0077cc;
+}
+
+.btn-primary[b-j2x1ckw9ya] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-j2x1ckw9ya], .nav-pills .show > .nav-link[b-j2x1ckw9ya] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-j2x1ckw9ya] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-j2x1ckw9ya] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-j2x1ckw9ya] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-j2x1ckw9ya] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer[b-j2x1ckw9ya] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+/* _content/RifkiTestTechnicalSkill/Views/Shared/_UserLayout.cshtml.rz.scp.css */
+body[b-cplgmep583] {
+    padding: 0;
+    margin: 0;
+}
+
+*[b-cplgmep583] {
+    scrollbar-width: thin;
+    scrollbar-color: #486888 #f1f1f1;
+}
+
+    *[b-cplgmep583]::-webkit-scrollbar {
+        width: 12px; /* Width of the scrollbar */
+    }
+
+    *[b-cplgmep583]::-webkit-scrollbar-track {
+        background: #f1f1f1; /* Color of the track */
+    }
+
+    *[b-cplgmep583]::-webkit-scrollbar-thumb {
+        background: #486888; /* Color of the thumb */
+        border-radius: 20px; /* Rounded corners of the thumb */
+    }
+
+        *[b-cplgmep583]::-webkit-scrollbar-thumb:hover {
+            background: #486888; /* Color of the thumb on hover */
+        }
+
+.main-contaier[b-cplgmep583] {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidenav[b-cplgmep583] {
+    height: 100%;
+    width: 250px;
+    background-color: #2c3e50;
+    padding-top: 15px;
+}
+
+.navigation-link[b-cplgmep583] {
+    text-decoration: none;
+    font-size: 17px;
+    color: #ffffff;
+    display: block;
+}
+
+.sidenav a:hover[b-cplgmep583] {
+    background-color: #476584;
+    color: #ffffff !important;
+}
+
+.sidenav a[b-cplgmep583] {
+    padding: 10px 15px;
+}
+
+.right-panel[b-cplgmep583] {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.nav-bar[b-cplgmep583] {
+    background-color: #486888;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-actions[b-cplgmep583] {
+    display: flex;
+    gap: 5px;
+}
+
+    .nav-actions button[b-cplgmep583] {
+        border: none;
+        background: none;
+    }
+
+        .nav-actions a:hover[b-cplgmep583],
+        .nav-actions button:hover[b-cplgmep583] {
+            color: rgb(241, 241, 241);
+        }
+
+.content[b-cplgmep583] {
+    padding: 20px;
+}
